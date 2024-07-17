@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-17T13:14:32 IST" name="Default suite" finished-at="2024-07-17T13:14:52 IST" duration-ms="20253">
+    <groups>
+    </groups>
+    <test started-at="2024-07-17T13:14:32 IST" name="Default test" finished-at="2024-07-17T13:14:52 IST" duration-ms="20253">
+      <class name="addtoproduct.TC_DTS_004_Test">
+        <test-method is-config="true" signature="configReport()[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:31 IST" name="configReport" finished-at="2024-07-17T13:14:32 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:32 IST" name="launchBrowser" finished-at="2024-07-17T13:14:41 IST" duration-ms="8849" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login(java.lang.reflect.Method)[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:41 IST" name="login" finished-at="2024-07-17T13:14:44 IST" duration-ms="3617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void addtoproduct.TC_DTS_004_Test.addToCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addToCart()[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:44 IST" name="addToCart" finished-at="2024-07-17T13:14:49 IST" duration-ms="5014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:49 IST" name="logout" finished-at="2024-07-17T13:14:51 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:51 IST" name="closeBrowser" finished-at="2024-07-17T13:14:52 IST" duration-ms="1408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:addtoproduct.TC_DTS_004_Test@38425407]" started-at="2024-07-17T13:14:52 IST" name="reportBackup" finished-at="2024-07-17T13:14:53 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- addtoproduct.TC_DTS_004_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
